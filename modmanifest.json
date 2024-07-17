@@ -1,0 +1,7 @@
+{
+    "UniqueModName": "nbk_redspy_QM_GraphicsResolutionToTop",
+    "Assemblies": [
+        "QM_GraphicsResolutionToTop.dll"
+    ],
+    "Dependencies": []
+}
