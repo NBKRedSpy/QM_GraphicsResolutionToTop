@@ -20,7 +20,7 @@ The configuration file will be created on the first game run and can be found at
 |Resolution|1366 x 768 x 60|The resolution to move to the top of the list|
 
 # Support
-If you enjoy my mods and want to leave a tip, check out my [Ko-Fi](https://ko-fi.com/nbkredspy71915) page.
+If you enjoy my mods and want to buy me a coffee, check out my [Ko-Fi](https://ko-fi.com/nbkredspy71915) page.
 Thanks!
 
 # Source Code
