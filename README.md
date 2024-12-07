@@ -12,7 +12,7 @@ Defaults to 1366 x 768 x 60, but can be configured
 
 # Configuration
 
-The configuration file will be created on the first game run and can be found at `%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph\QM_GraphicsResolutionToTop\QM_GraphicsResolutionToTop.json`.
+The configuration file will be created on the first game run and can be found at `%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph_ModConfigs\QM_GraphicsResolutionToTop\QM_GraphicsResolutionToTop.json`.
 
 
 |Name|Default|Description|
@@ -25,3 +25,6 @@ Thanks!
 
 # Source Code
 Source code is available on GitHub at https://github.com/NBKRedSpy/QM_GraphicsResolutionToTop
+
+## 1.1.0
+* Moved config file directory.
