@@ -26,5 +26,8 @@ Thanks!
 # Source Code
 Source code is available on GitHub at https://github.com/NBKRedSpy/QM_GraphicsResolutionToTop
 
+## 1.1.1
+* Fixed config being ignored.
+
 ## 1.1.0
 * Moved config file directory.

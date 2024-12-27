@@ -52,6 +52,7 @@ namespace QM_GraphicsResolutionToTop
             Directory.CreateDirectory(ModsPersistenceFolder);
 
             Config = ModConfig.LoadConfig(ConfigPath);
+            GraphicsPage_InitResolutionsDropdown_Patch.Resolution = Config.Resolution;
 
             new Harmony("_" + ModAssemblyName).PatchAll();
         }
