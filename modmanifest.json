@@ -3,5 +3,10 @@
     "Assemblies": [
         "QM_GraphicsResolutionToTop.dll"
     ],
-    "Dependencies": []
+    "Dependencies": [],
+    "SteamTags": [
+    "1.0",
+    "Utility"
+  ]
+
 }
